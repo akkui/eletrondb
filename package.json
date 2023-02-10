@@ -1,0 +1,27 @@
+{
+  "name": "eletron.db",
+  "version": "1.0.0",
+  "description": "A Local Database that works with JSON Files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkui/eletrondb.git"
+  },
+  "keywords": [
+    "LocalDB",
+    "Database",
+    "Json"
+  ],
+  "author": "akkui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akkui/eletrondb/issues"
+  },
+  "homepage": "https://github.com/akkui/eletrondb#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
