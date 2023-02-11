@@ -2,13 +2,13 @@
 A simple local database that works with json files.
 
 ## Installation Methods
-``npm install eletron.db``
+``npm install eletrondb``
 
 ## How Use
 Firstly, make a <b>require</b> of the database in your code.<br>
 And, setup the folder what the database files will be saved.<br>
 ```
-const eletrondb = require("eletron.db");
+const eletrondb = require("eletrondb");
 eletrondb.setup("Folder_Name");
 ```
 The code accept subfolder, for example: ``First_folder/Second_folder``<br>
