@@ -1,6 +1,6 @@
 {
-  "name": "eletron.db",
-  "version": "1.0.0",
+  "name": "eletrondb",
+  "version": "1.0.1",
   "description": "A Local Database that works with JSON Files.",
   "main": "index.js",
   "scripts": {
